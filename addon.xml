@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.store" version="1.0.0" name="Store" provider-name="Hitcher">
+<addon id="skin.store.rv" version="1.0.0" name="Store Revived" provider-name="Hitcher, Thirdy">
 	<requires>
-		<import addon="xbmc.gui" version="4.0.0"/>
+		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
 	<extension point="xbmc.gui.skin" defaultthemename="textures.xbt" debugging="false" effectslowdown="1.00">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
